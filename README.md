@@ -3,6 +3,7 @@
 - 💞️ I want to learn things that can help me be better.
 - ⚡ I am willing to learn and be taught to.
 - 🌱 I’m currently learning Kotlin.
+  
 - 📫 How to reach me @ github.com/Haeushi
 
 
